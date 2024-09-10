@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/plotly/plotly-original.svg" title="mysql" alt="mysql" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/matplotlib/matplotlib-original.svg" title="plt" alt="plt" width="45" height="45"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="sns" alt="sns" width="45" height="45"/>&nbsp;
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" title="tableau" alt="tableau" width="45" height="45"/>&nbsp;
